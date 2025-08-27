@@ -12,6 +12,8 @@ A) My first task was to download VirtualBox and linyx system to it and I did it 
 
 -Kept following these instructions https://github.com/johannaheinonen/johanna-test-repo/blob/main/linux-20082025.md and got Virtual machine finally started. 
 
+-I checked from Task Manager that my VT-x is on. From CPU Virtualization: Enabled
+
 -In the start of ISO installation I was not sure what to download but after trying gnome.iso and xfce.iso I got it working. In the start I installed wrong files to wrong folder in my computer and created DVD(D) drives
 
 -After getting the settings right and VM started all the applications worked. 
