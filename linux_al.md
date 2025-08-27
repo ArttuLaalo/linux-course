@@ -38,3 +38,6 @@ https://cdimage.debian.org/debian-cd/13.0.0-live/amd64/iso-hybrid/
 
 https://github.com/johannaheinonen/johanna-test-repo/blob/main/linux-20082025.md
 
+
+PS: Tehty vahingossa englanniksi koska luulin että pitää tehdä niin. 
+
