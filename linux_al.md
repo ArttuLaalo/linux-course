@@ -14,10 +14,14 @@ A) My first task was to download VirtualBox and linyx system to it and I did it 
 
 -In the start of ISO installation I was not sure what to download but after trying gnome.iso and xfce.iso I got it working. In the start I installed wrong files to wrong folder in my computer and created DVD(D) drives
 
--After understanding how it works I got the settings right and VM started. Everything after that went without an issue. 
+-After getting the settings right and VM started all the applications worked. 
 
 
 Here are some pictures: 
+
+
+-Issues I faced when downloading and setting everything wrongly
+<img width="1026" height="818" alt="Mostlikelywronglyinstalled" src="https://github.com/user-attachments/assets/8606b43d-3017-43dc-a706-40c284c2bc80" />
 
 
 -Got the settings done and VM started
@@ -26,6 +30,10 @@ Here are some pictures:
 
 -Virtual Machine working normally and got applications working aswell
 <img width="1278" height="884" alt="LinuxVirtuaalityöpöytä" src="https://github.com/user-attachments/assets/b6a1aa30-0075-4985-9efa-6a3ef3d8534d" />
+
+
+-Test of the applications and prompt ls -la worked
+<img width="1282" height="883" alt="image" src="https://github.com/user-attachments/assets/7be77e47-f8e0-41ca-9553-d89fc04d588b" />
 
 
 ## References
