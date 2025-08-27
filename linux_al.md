@@ -1,6 +1,6 @@
 # h1 - Making first linux report
 
-A) My first task was to download VirtualBox and I did it for my home desktop Windows11 computer. 
+A) My first task was to download VirtualBox and linyx system to it and I did it from my home desktop Windows11 computer. 
 
 -I started from page https://terokarvinen.com/2021/install-debian-on-virtualbox/ and went from link on that page to https://www.virtualbox.org/wiki/Downloads and chose from "VirtualBox Platform Packages" Windows hosts option. 
 
