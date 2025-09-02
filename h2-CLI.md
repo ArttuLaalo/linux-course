@@ -2,7 +2,7 @@
 
 Pienenä lisäyksenä kaikkeen testattuun koko vanha virtuuali kone oli hävittänyt kaikki mitä tunnilla oli tehty kone on nyt toiminnassa Snapshot otettu kokeiluun CTRL+V ja CTRL+C vielä pitää myöhemmin lisätä käyttöön. Eli kaikki aloitettu puhtaasta nollasta. 
 
-Micro asennus CLI kautta; 
+Micro asennus CLI kautta (grep 1/2 käytetty näkyy history kohdassa); 
 
 <img width="905" height="693" alt="Näyttökuva 2025-09-02 232816" src="https://github.com/user-attachments/assets/96f24ae9-ba7b-4ccc-ac8e-e303bf8cfb0b" />
 
@@ -46,7 +46,7 @@ Testailtu muuten vain history toiminta; (käytetty man history kun salasana piti
 
 <img width="807" height="649" alt="Näyttökuva 2025-09-02 235635" src="https://github.com/user-attachments/assets/3f199930-f57c-440a-8aa9-58aeb693ebe4" />
 
-Tutkittu logia /var/log/dpkg.log | grep lshw selvitetty mitä asennuksessa tuli, analysointi mukana tuli tarvittavat konfiguraatio tiedostot ja itse asennus tiedosto; (käytetty: pipes esimerkki samassa grep 3/3) 
+Tutkittu logia /var/log/dpkg.log | grep lshw selvitetty mitä asennuksessa tuli, analysointi mukana tuli tarvittavat konfiguraatio tiedostot ja itse asennus tiedosto; (käytetty: pipes esimerkki samassa grep 2/2) 
 
 <img width="808" height="685" alt="Näyttökuva 2025-09-03 000344" src="https://github.com/user-attachments/assets/3b5ea33c-aaa0-464e-aa2f-627bab6cd5f6" />
 
