@@ -62,5 +62,5 @@ Käynnistää micro editorin uudestaan;
 
 <img width="807" height="688" alt="Näyttökuva 2025-09-03 000807" src="https://github.com/user-attachments/assets/7d36b7b7-1e83-4aab-85c5-a75b4caab0dc" />
 
-
+Lähteinä toimi työkaverit ja chatgpt antamaan eri ideoita ja tapoja ratkaista tehtäviä. 
 
